@@ -1,0 +1,10 @@
+# git ignores
+.idea
+node_modules
+.clang-format
+.cache
+.project
+.vscode/settings.json
+build
+*~
+__pycache__
