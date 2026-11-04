@@ -68,6 +68,10 @@
             "version": "0.97.0",
             "file": "acme.tgz"
         },
+        "oscar64": {
+            "version": "1.32.273",
+            "file": "oscar64.tgz"
+        },
         "llvm-mos": {
             "version": "23.4.0",
             "url": "https://github.com/llvm-mos/llvm-mos-sdk/releases/download/v23.4.0/llvm-mos-linux.tar.xz",
